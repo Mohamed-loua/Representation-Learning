@@ -1,0 +1,24 @@
+WISDM dataset.zip
+assignment-env/*
+*/__pycache__/*
+__pycache__/*
+WISDM_ar_v1.1_raw.txt
+*.out
+slurm*.txt
+assignment2/assignment/*
+
+
+# assignemnt 3
+assignment3/wandb/*
+assignment3/datasets/*
+assignment3/best_model.pth
+assignment3/data/*
+
+
+model*.pth
+datasets/*
+data/*
+wandb/*
+
+#ddpm
+assignment3/MNISTDataset/*

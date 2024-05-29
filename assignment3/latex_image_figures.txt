@@ -1,0 +1,199 @@
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_0_sample_999.png}
+        \caption{Generated images at epoch 0}
+        \label{fig:genimg-0}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_1_sample_999.png}
+        \caption{Generated images at epoch 1}
+        \label{fig:genimg-1}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_2_sample_999.png}
+        \caption{Generated images at epoch 2}
+        \label{fig:genimg-2}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_3_sample_999.png}
+        \caption{Generated images at epoch 3}
+        \label{fig:genimg-3}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_4_sample_999.png}
+        \caption{Generated images at epoch 4}
+        \label{fig:genimg-4}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_5_sample_999.png}
+        \caption{Generated images at epoch 5}
+        \label{fig:genimg-5}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_6_sample_999.png}
+        \caption{Generated images at epoch 6}
+        \label{fig:genimg-6}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_7_sample_999.png}
+        \caption{Generated images at epoch 7}
+        \label{fig:genimg-7}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_8_sample_999.png}
+        \caption{Generated images at epoch 8}
+        \label{fig:genimg-8}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_9_sample_999.png}
+        \caption{Generated images at epoch 9}
+        \label{fig:genimg-9}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_10_sample_999.png}
+        \caption{Generated images at epoch 10}
+        \label{fig:genimg-10}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_11_sample_999.png}
+        \caption{Generated images at epoch 11}
+        \label{fig:genimg-11}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_12_sample_999.png}
+        \caption{Generated images at epoch 12}
+        \label{fig:genimg-12}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_13_sample_999.png}
+        \caption{Generated images at epoch 13}
+        \label{fig:genimg-13}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_14_sample_999.png}
+        \caption{Generated images at epoch 14}
+        \label{fig:genimg-14}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_15_sample_999.png}
+        \caption{Generated images at epoch 15}
+        \label{fig:genimg-15}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_16_sample_999.png}
+        \caption{Generated images at epoch 16}
+        \label{fig:genimg-16}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_17_sample_999.png}
+        \caption{Generated images at epoch 17}
+        \label{fig:genimg-17}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_18_sample_999.png}
+        \caption{Generated images at epoch 18}
+        \label{fig:genimg-18}
+    \end{figure}
+    
+
+
+
+    \begin{figure}
+        \centering
+        \includegraphics{genImages/epoch_19_sample_999.png}
+        \caption{Generated images at epoch 19}
+        \label{fig:genimg-19}
+    \end{figure}
+    
